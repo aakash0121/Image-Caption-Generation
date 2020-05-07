@@ -14,3 +14,14 @@
 
 ## Results
 
+### First Input
+
+![Image](https://github.com/aakash0121/Image-Caption-Generation/blob/master/test_input/2.jpeg)
+
+### Second Input
+
+![Image](https://github.com/aakash0121/Image-Caption-Generation/blob/master/test_input/1.jpeg)
+
+### Output
+
+![Image](https://github.com/aakash0121/Image-Caption-Generation/blob/master/test_output/output.png)
