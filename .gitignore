@@ -1,0 +1,6 @@
+__pycache__
+test_input
+models
+*model.png
+*train_encoded_images.p
+flickr8k
