@@ -57,5 +57,8 @@ for filename in os.listdir(in_path):
 
     description = generate_desc(model, tokenizer, photo, max_length)
     print("\n\n")
+    stopwords = ['start', 'end']
+    for words in stopwords:
+        description = description.replace(words, "")
     print(description)
     img.show()
