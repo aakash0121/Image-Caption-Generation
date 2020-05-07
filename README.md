@@ -5,3 +5,12 @@
 2. Name the folder `flickr8k`.
 3. Put all the images in `Images` folder inside `flickr8k`.
 4. All the files related to Images should be kept in `Flickr_TextData` inside `flickr8k`.
+
+## Training
+1. Run `train.py`.
+
+## Testing
+1. Run `test.py`.
+
+## Results
+
